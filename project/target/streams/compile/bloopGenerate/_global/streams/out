@@ -1,0 +1,4 @@
+[debug] [from-bytes-to-behavior-build] Classpath dependencies List()
+[debug] [from-bytes-to-behavior-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'from-bytes-to-behavior-build' to '/home/opiyodhiambo/adventure/dev/from-bytes-to-behavior/project/.bloop/from-bytes-to-behavior-build.json'
+[success] Generated .bloop/from-bytes-to-behavior-build.json
